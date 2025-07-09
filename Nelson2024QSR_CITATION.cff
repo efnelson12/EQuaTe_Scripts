@@ -1,0 +1,28 @@
+cff-version: 1.1.0
+message: "If you use this code, please cite it as below."
+
+Item Type: Journal Article
+Author 	Ellie Nelson
+orcid: https://orcid.org/0000-0003-1833-7544
+Author 	Zoltán Püspöki
+Author 	Dustin White
+Author 	György Pogácsás
+Author 	Richard William McIntosh
+Author 	Bálint Szappanos
+Author 	Lucy Wheeler
+Author 	Tamás Fancsik
+Author 	Kirsty Penkman
+Abstract 	Long-term terrestrial archives of Quaternary climate change illustrate how global changes affect regional climates, but correlation of terrestrial deposits to global records can be challenging due to a lack of material for radiometric dating. The Pannonian Basin (Hungary) contains large river basins, with near-continuous Quaternary deposits ∼600 m in depth. This study tested the IcPD (intra-crystalline protein degradation) approach to amino acid geochronology using bithyniid snail opercula to date deep-core material in geothermally warm regions. Material from seven fully-cored boreholes was collected from four sub-regions: the Körös and Jászság basins, Makó Trough and Békés Basin. IcPD increased with age until approximately 2.3 million years ago, generally supporting stratigraphic correlations previously made between the boreholes. IcPD was consistent between different boreholes within the same sub-region. However due to the steep geothermal gradient in this region, IcPD was systematically different between sub-regions that had different sedimentation rates. Equivalently aged samples buried more deeply had higher IcPD levels, indicating a greater geothermic effect. This provides an insight into how variations in burial temperature can affect protein decomposition within a deeply-buried (>80 m) fossil over geological time, and demonstrates the importance of understanding the geothermal setting for amino acid geochronology. This study shows the utility of IcPD to correlate terrestrial deep-core sediments over the Pleistocene.
+Date 	2024-12-15
+Short Title 	A Quaternary aminostratigraphy for the Pannonian Basin
+Library Catalogue 	ScienceDirect
+URL 	https://www.sciencedirect.com/science/article/pii/S0277379124005468
+Accessed 	17/11/2024, 16:20:08
+Volume 	346
+Pages 	109044
+Publication 	Quaternary Science Reviews
+DOI 	10.1016/j.quascirev.2024.109044
+Journal Abbr 	Quaternary Science Reviews
+ISSN 	0277-3791
+date-released: 2025-07-09
+version: PannonianBasinv1
