@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this clustering approach is used, please cite it as below."
+authors:
+- Nelson, Ellie F.
+orcid: https://orcid.org/0000-0003-1833-7544
+title:efnelson12/EQuaTe_Scripts: Nelsonetal2025_JQS_ClusteringApproach
+version: python3.10
+date-released: 2025-07-03
