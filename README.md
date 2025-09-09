@@ -1,4 +1,4 @@
-# EQuaTe_Scripts
+# Nelson et al., 2025: northern Upper Rhine Graben
 Scripts from first author papers as part of the ERC-EQuaTe project
 
 This project has received funding through the EQuaTe project from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 865222). 
